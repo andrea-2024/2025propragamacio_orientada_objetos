@@ -21,6 +21,7 @@ class Cuaderno(Articulos):
         super().__init__(detalle,costo)
         self.caracteristicas = caracteristicas #Atributo especifico de la clase cuaderno
         self.proveedor = proveedor
+        self.inventario = {} #
 
 
 
