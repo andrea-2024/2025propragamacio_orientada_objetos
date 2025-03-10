@@ -1,0 +1,16 @@
+{
+    "arroz": {
+        "cantidad": 3,
+        "precio": 2.0
+    },
+    "arrosz": {
+        "cantidad": 2,
+        "precio": 32.0
+    },
+    "azucar": {
+        "cantidad": 25,
+        "precio": 0.25
+    },
+    "papas":30,
+     "precio":0.87
+}
